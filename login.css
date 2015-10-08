@@ -1,0 +1,31 @@
+body {
+	font-family:"Open Sans",sans;
+    margin: 0 auto;
+}
+
+h1
+{
+font-family:"Open Sans",sans;
+color: grey;
+font-size:3em;
+font-weight:800;
+text-align:center;
+}
+
+h2
+{
+font-family:"Open Sans",sans;
+color: grey;
+font-size:1em;
+font-weight:600;
+text-align:center;
+}
+
+.email
+{
+	margin: 1em;
+}
+
+.password
+{
+}
